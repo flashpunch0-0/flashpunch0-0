@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flashpunch0-0
-- 👀 I’m interested in gaming,finance,economics,business,leadership
-- 🌱 I’m currently learning c++(development and problem solving), development
+- 👀 I’m interested in creating new things,business,finance,economics,leadership, gaming
+- 🌱 I’m currently learning c++(development and problem solving), web development
 
 
 <!---
