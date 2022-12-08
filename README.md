@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flashpunch0-0
-- 👀 I’m interested in creating new things,business,leadership,development.
+- 👀 I’m interested in creating blockchain app which can solve serious problems to make this world a better place.
 - 🌱 I’m currently learning web3.0 and blockchain 
 
 
