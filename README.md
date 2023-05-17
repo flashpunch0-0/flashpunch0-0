@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flashpunch0-0
+- 👋 Hi, my name ie Kratik bohra and my alias name is @flashpunch0-0
 - 👀 I’m interested in creating web and blockchain apps which can solve serious problems to make this world a better place.
 
 
