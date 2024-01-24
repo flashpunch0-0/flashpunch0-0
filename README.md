@@ -8,7 +8,7 @@ I'm a Full Stack Developer with 2 internship experience and aim to grow and crea
 
 * 🌍  I'm based in MUMBAI
 * ✉️  You can contact me at [kratikbohra5@gmail.com](mailto:kratikbohra5@gmail.com)
-* 🧠  I'm learning Backend
+* 🧠  I'm learning to create Npm Packages
 * 🤝  I'm open to collaborating on Interesting projects trying to solve real life problems
 
 ### Skills
