@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a Full Stack Developer with 2 internship experience and aim to grow and create solutions to solve problems . Currently working at G Z Technology Private Limited to develop a Full Stack Site Resource Management App which helps to identify the efficiency of the machines using resources. I Created NPM package which has attracted near to 2100 downloads on npmjs.
+I'm a Developer  with 3 internship experience and aim to grow and create solutions to solve problems. 
 
 *   🌍  I'm based in Mumbai
 *   ✉️  You can contact me at [kratikbohra5@gmail.com](mailto:kratikbohra5@gmail.com)
