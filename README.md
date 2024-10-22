@@ -8,7 +8,7 @@ I'm a Developer  with 3 internship experience and aim to grow and create solutio
 
 *   🌍  I'm based in Mumbai
 *   ✉️  You can contact me at [kratikbohra5@gmail.com](mailto:kratikbohra5@gmail.com)
-*   🤝  Currently working on BACKLOG (Browser Extension)
+*   🤝  Currently working on WORKBOX (Browser Extension)
 *   🚀  Download [Backend-Mocker-Npm-Package](http://www.npmjs.com/package/backend-mocker-npm-package)
 *   🤝  I'm open to collaborating on I'm open to collaborating on Interesting projects trying to solve real life problems### Skills 
 <p align="left">
